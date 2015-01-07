@@ -1,0 +1,22 @@
+#Add more prices in the array for each advertisement sizes
+#
+
+"1*3":
+  prices: [10000]
+
+"2*3":
+  prices: [20500]
+
+"2*3":
+  prices: [6000]
+
+"1*3":
+  prices: [6000]
+
+"3*3":
+  prices: [3000]
+
+"3*3":
+  prices: [5000]
+
+
